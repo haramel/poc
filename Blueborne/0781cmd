@@ -1,0 +1,1 @@
+sudo python3 CVE-2017-0781.py TARGET=D8:50:E6:8D:0C:86

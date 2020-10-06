@@ -1,0 +1,4 @@
+2020/01/21 12:07:12: info: btscanner starting
+2020/01/21 12:07:16: info: threader_start::pthread_create(): created thread -1922742528
+2020/01/21 12:07:16: error: scan_reset_device(): unable to bring device 0 down: Operation not permitted
+2020/01/21 12:10:02: info: threader_reap::pthread_join(): joined thread -1922742528
